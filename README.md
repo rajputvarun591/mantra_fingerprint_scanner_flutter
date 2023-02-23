@@ -1,6 +1,6 @@
 # mantra_biometric_flutter
 
-A new Flutter project.
+A new Flutter project to run Mantra official Android applicfation on flutter side.
 
 ## Getting Started
 
